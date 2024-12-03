@@ -1,4 +1,4 @@
-# Genetic Algorithm
+# Othello Game
 
 ## Overview
 This project is a othello game with an AI player for cs480.
